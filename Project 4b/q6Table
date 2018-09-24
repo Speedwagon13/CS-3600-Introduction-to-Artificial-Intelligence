@@ -1,0 +1,21 @@
+          ----------Data for Pens----------
+Neuron Count: 0           Average Accuracy: 0.899771297885
+Neuron Count: 5           Average Accuracy: 0.903087478559
+Neuron Count: 10          Average Accuracy: 0.899199542596
+Neuron Count: 15          Average Accuracy: 0.905774728416
+Neuron Count: 20          Average Accuracy: 0.900743281875
+Neuron Count: 25          Average Accuracy: 0.90102915952
+Neuron Count: 30          Average Accuracy: 0.901143510577
+Neuron Count: 35          Average Accuracy: 0.90405946255
+Neuron Count: 40          Average Accuracy: 0.901486563751
+
+----------Data for Cars----------
+Neuron Count: 0           Average Accuracy: 0.860863874346
+Neuron Count: 5           Average Accuracy: 0.857722513089
+Neuron Count: 10          Average Accuracy: 0.859293193717
+Neuron Count: 15          Average Accuracy: 0.864005235602
+Neuron Count: 20          Average Accuracy: 0.86780104712
+Neuron Count: 25          Average Accuracy: 0.86335078534
+Neuron Count: 30          Average Accuracy: 0.865445026178
+Neuron Count: 35          Average Accuracy: 0.865445026178
+Neuron Count: 40          Average Accuracy: 0.86112565445
